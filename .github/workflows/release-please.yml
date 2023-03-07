@@ -12,7 +12,7 @@ jobs:
           release-type: node
           package-name: release-please-action
           changelog-types: >
-            "[{"type":"feat","section":"Features","hidden":false},
+            '[{"type":"feat","section":"Features","hidden":false},
             {"type":"fix","section":"Bug Fixes","hidden":false},
             {"type":"perf","section":"Performance Improvements","hidden":false},
             {"type":"revert","section":"Reverts","hidden":false},
@@ -23,4 +23,4 @@ jobs:
             {"type":"test","section":"Tests","hidden":false},,
             {"type":"build","section":"Build System","hidden":false},,
             {"type":"ci","section":"Continuous Integration","hidden":false},
-            {"type":"value","section":"Value Changes","hidden":false}]"
+            {"type":"value","section":"Value Changes","hidden":false}]'
