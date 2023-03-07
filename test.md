@@ -1,3 +1,3 @@
 # this is a value
 
-value = 5
+value = 1
